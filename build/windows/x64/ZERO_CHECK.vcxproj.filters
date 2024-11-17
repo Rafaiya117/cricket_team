@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\fifa-demo\build\windows\x64\CMakeFiles\f9bec645c2eae41180e1cc4fc5b2e6fc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{284626B4-7C8D-34A3-B0D3-0371CA756CBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

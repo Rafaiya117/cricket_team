@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64894053069",
+    "project_id": "cricket-admin-c0c62",
+    "storage_bucket": "cricket-admin-c0c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64894053069:android:150ed69b36bb221ce11784",
+        "android_client_info": {
+          "package_name": "com.example.cricket_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UOKSc1YZqvk_u48hGvAT5Q5trDv19Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64894053069:android:cb7fae04c859c17ce11784",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UOKSc1YZqvk_u48hGvAT5Q5trDv19Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
